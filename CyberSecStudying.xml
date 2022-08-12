@@ -6,40 +6,40 @@
         <webpage xlink:type="simple" xlink:href="https://bancocn.com">Bancocn</webpage>
         <webpage xlink:type="simple" xlink:href="https://www.certifiedsecure.com/frontpage">Certified Secure</webpage>
     	<webpage xlink:type="simple" xlink:href="https://cmdchallenge.com">CMD Challenge</webpage>
-		<webpage xlink:type="simple" xlink:href="https://cryptohack.org/">CryptoHack</webpage>
-		<webpage xlink:type="simple" xlink:href="https://ctftime.org/">CTFtime -- Scheduled CTF Events</webpage>
-		<webpage xlink:type="simple" xlink:href="https://cyberdefenders.org/blueteam-ctf-challenges/">CyberDefenders</webpage>
-		<webpage xlink:type="simple" xlink:href="https://www.cyberseclabs.co.uk/">CyberSecLabs</webpage>
-		<webpage xlink:type="simple" xlink:href="https://echoctf.red/">EchoCTF</webpage>
-		<webpage xlink:type="simple" xlink:href="https://exploit.education">Exploit Education</webpage>
-		<webpage xlink:type="simple" xlink:href="https://www.hackthebox.com/">HackTheBox</webpage>
-		<webpage xlink:type="simple" xlink:href="https://ctf.hacker101.com">Hacker101 CTF</webpage>
-		<webpage xlink:type="simple" xlink:href="https://hacking-lab.com/">HackingLab</webpage>
-		<webpage xlink:type="simple" xlink:href="https://www.hacksplaining.com/lessons">HackSplaining</webpage>
-		<webpage xlink:type="simple" xlink:href="https://www.hackthis.co.uk">HackThis</webpage>
-		<webpage xlink:type="simple" xlink:href="https://hackxpert.com/">HackXpert</webpage>
-		<webpage xlink:type="simple" xlink:href="https://hstrike.com">HSTRIKE</webpage>
-		<webpage xlink:type="simple" xlink:href="https://immersivelabs.com">ImmersiveLabs</webpage>
-		<webpage xlink:type="simple" xlink:href="https://letsdefend.io/">LetsDefend</webpage>
-		<webpage xlink:type="simple" xlink:href="http://www.osboxes.org/">OSBOXES</webpage>
-		<webpage xlink:type="simple" xlink:href="http://overthewire.org">OverTheWire</webpage>
-		<webpage xlink:type="simple" xlink:href="https://www.amanhardikar.com/mindmaps/Practice.html">PenTest Practice Labs</webpage>
-		<webpage xlink:type="simple" xlink:href="https://pentesterlab.com">PentesterLab</webpage>
-		<webpage xlink:type="simple" xlink:href="https://picoctf.com">PicoCTF</webpage>
-		<webpage xlink:type="simple" xlink:href="https://portswigger.net/web-security">PortSwigger WebSec Academy</webpage>
-		<webpage xlink:type="simple" xlink:href="https://practicalpentestlabs.com/">Practical Pentest Labs</webpage>
-		<webpage xlink:type="simple" xlink:href="https://dojo.pwn.college/">PWN College</webpage>
-		<webpage xlink:type="simple" xlink:href="https://pwnable.kr/play.php">PWNable</webpage>
-		<webpage xlink:type="simple" xlink:href="https://www.rangeforce.com/">RangeForce</webpage>
-		<webpage xlink:type="simple" xlink:href="http://rootinjail.com">Root in Jail</webpage>
-		<webpage xlink:type="simple" xlink:href="http://www.smashthestack.org/wargames.html">SmashTheStack</webpage>
-		<webpage xlink:type="simple" xlink:href="https://alf.nu/alert1">Alert to Win</webpage>
-		<webpage xlink:type="simple" xlink:href="https://cryptopals.com">CryptoPals Crypto Challenge</webpage>
-		<webpage xlink:type="simple" xlink:href="https://tryhackme.com">TryHackMe</webpage>
-		<webpage xlink:type="simple" xlink:href="https://www.vulnhub.com">VulnHub</webpage>
-		<webpage xlink:type="simple" xlink:href="https://vulnmachines.com/">VulnMachines</webpage>
-		<webpage xlink:type="simple" xlink:href="https://w3challs.com">W3Challs</webpage>
-		<webpage xlink:type="simple" xlink:href="http://www.wechall.net">WeChall</webpage>
-		<webpage xlink:type="simple" xlink:href="https://owasp.org/www-project-webgoat/">OWASP WebGoat</webpage>
-	</webpages>
+	<webpage xlink:type="simple" xlink:href="https://cryptohack.org/">CryptoHack</webpage>
+	<webpage xlink:type="simple" xlink:href="https://ctftime.org/">CTFtime -- Scheduled CTF Events</webpage>
+	<webpage xlink:type="simple" xlink:href="https://cyberdefenders.org/blueteam-ctf-challenges/">CyberDefenders</webpage>
+	<webpage xlink:type="simple" xlink:href="https://www.cyberseclabs.co.uk/">CyberSecLabs</webpage>
+	<webpage xlink:type="simple" xlink:href="https://echoctf.red/">EchoCTF</webpage>
+	<webpage xlink:type="simple" xlink:href="https://exploit.education">Exploit Education</webpage>
+	<webpage xlink:type="simple" xlink:href="https://www.hackthebox.com/">HackTheBox</webpage>
+	<webpage xlink:type="simple" xlink:href="https://ctf.hacker101.com">Hacker101 CTF</webpage>
+	<webpage xlink:type="simple" xlink:href="https://hacking-lab.com/">HackingLab</webpage>
+	<webpage xlink:type="simple" xlink:href="https://www.hacksplaining.com/lessons">HackSplaining</webpage>
+	<webpage xlink:type="simple" xlink:href="https://www.hackthis.co.uk">HackThis</webpage>
+	<webpage xlink:type="simple" xlink:href="https://hackxpert.com/">HackXpert</webpage>
+	<webpage xlink:type="simple" xlink:href="https://hstrike.com">HSTRIKE</webpage>
+	<webpage xlink:type="simple" xlink:href="https://immersivelabs.com">ImmersiveLabs</webpage>
+	<webpage xlink:type="simple" xlink:href="https://letsdefend.io/">LetsDefend</webpage>
+	<webpage xlink:type="simple" xlink:href="http://www.osboxes.org/">OSBOXES</webpage>
+	<webpage xlink:type="simple" xlink:href="http://overthewire.org">OverTheWire</webpage>
+	<webpage xlink:type="simple" xlink:href="https://www.amanhardikar.com/mindmaps/Practice.html">PenTest Practice Labs</webpage>
+	<webpage xlink:type="simple" xlink:href="https://pentesterlab.com">PentesterLab</webpage>
+	<webpage xlink:type="simple" xlink:href="https://picoctf.com">PicoCTF</webpage>
+	<webpage xlink:type="simple" xlink:href="https://portswigger.net/web-security">PortSwigger WebSec Academy</webpage>
+	<webpage xlink:type="simple" xlink:href="https://practicalpentestlabs.com/">Practical Pentest Labs</webpage>
+	<webpage xlink:type="simple" xlink:href="https://dojo.pwn.college/">PWN College</webpage>
+	<webpage xlink:type="simple" xlink:href="https://pwnable.kr/play.php">PWNable</webpage>
+	<webpage xlink:type="simple" xlink:href="https://www.rangeforce.com/">RangeForce</webpage>
+	<webpage xlink:type="simple" xlink:href="http://rootinjail.com">Root in Jail</webpage>
+	<webpage xlink:type="simple" xlink:href="http://www.smashthestack.org/wargames.html">SmashTheStack</webpage>
+	<webpage xlink:type="simple" xlink:href="https://alf.nu/alert1">Alert to Win</webpage>
+	<webpage xlink:type="simple" xlink:href="https://cryptopals.com">CryptoPals Crypto Challenge</webpage>
+	<webpage xlink:type="simple" xlink:href="https://tryhackme.com">TryHackMe</webpage>
+	<webpage xlink:type="simple" xlink:href="https://www.vulnhub.com">VulnHub</webpage>
+	<webpage xlink:type="simple" xlink:href="https://vulnmachines.com/">VulnMachines</webpage>
+	<webpage xlink:type="simple" xlink:href="https://w3challs.com">W3Challs</webpage>
+	<webpage xlink:type="simple" xlink:href="http://www.wechall.net">WeChall</webpage>
+	<webpage xlink:type="simple" xlink:href="https://owasp.org/www-project-webgoat/">OWASP WebGoat</webpage>
+   </webpages>
 </study>	
