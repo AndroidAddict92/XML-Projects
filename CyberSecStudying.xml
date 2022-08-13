@@ -41,5 +41,6 @@
 	<webpage xlink:type="simple" xlink:href="https://w3challs.com">W3Challs</webpage>
 	<webpage xlink:type="simple" xlink:href="http://www.wechall.net">WeChall</webpage>
 	<webpage xlink:type="simple" xlink:href="https://owasp.org/www-project-webgoat/">OWASP WebGoat</webpage>
+        <webpage xlink:type="simple" xlink:href="https://cscircles.cemc.uwaterloo.ca/">Python Basics</webpage>
    </webpages>
 </study>	
